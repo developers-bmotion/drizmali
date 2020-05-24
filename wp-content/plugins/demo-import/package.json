@@ -1,0 +1,26 @@
+{
+  "name": "norebro",
+  "version": "1.0.0",
+  "description": "Ohio is flexible and high performance multipurpose WordPress Theme for personal and corporate use. It comes with the most popular WordPress page builder Visual Composer. Create gorgeous pages and layouts fast and easy without coding.\r Support: http://clbthemes.com/support/",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": ""
+}

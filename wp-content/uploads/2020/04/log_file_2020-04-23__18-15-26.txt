@@ -1,0 +1,22 @@
+
+---Downloaded files---
+The import files for: UI Elements: <b>Shortcodes</b> were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://test-mauro.site
+Data file = /home/forge/test-mauro.site/public/wp-content/uploads/2020/04/demo-content-import-file_2020-04-23__18-15-26.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/after_import---
+

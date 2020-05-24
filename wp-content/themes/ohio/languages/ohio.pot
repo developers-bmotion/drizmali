@@ -1,0 +1,1323 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ohio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-07 08:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. 1: date, 2: time
+#: inc/wp_overrides.php:35
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:64
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:47
+#, php-format
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: title of menu item which is invalid
+#: inc/menu/edit_mega_menu_walker.php:87
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/menu/edit_mega_menu_walker.php:91
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: 404.php:8
+msgid "404. The page you are looking for does not exist."
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:278 inc/tgmpa/ocdi_setup.php:288
+#: inc/tgmpa/ocdi_setup.php:298 inc/tgmpa/ocdi_setup.php:308
+#: inc/tgmpa/ocdi_setup.php:318 inc/tgmpa/ocdi_setup.php:328
+msgid "About Page"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Add a review"
+msgstr ""
+
+#: inc/sidebars.php:7 inc/sidebars.php:17
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: page_templates/page_for-projects.php:291
+msgid "All"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:420
+msgid "All Pages"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:116
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/cart/cart.php:157
+msgid "Apply Coupon"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:46
+msgid "Are you sure you want to remove this item from cart?"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:299
+msgid "Attribute setting"
+msgstr ""
+
+#: parts/elements/page_headline.php:78
+msgid "Author"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:62
+msgid "Author:"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:366
+msgid "Authors"
+msgstr ""
+
+#: woocommerce/cart/cart.php:87
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Average"
+msgstr ""
+
+#: parts/elements/page_headline.php:134 parts/portfolio/layout_type5.php:13
+#: parts/portfolio/layout_type6.php:13 parts/portfolio/layout_type7.php:14
+#: parts/portfolio/layout_type8.php:13 parts/portfolio/layout_type9.php:13
+msgid "Back"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/init/theme.php:54
+msgid "Beige Dark"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:31
+#: woocommerce/order/order-details-customer.php:33
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing details"
+msgstr ""
+
+#: inc/sidebars.php:5 inc/tgmpa/acf_setup.php:73
+#: parts/elements/page_headline.php:40
+msgid "Blog"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:398
+msgid "Blog Page"
+msgstr ""
+
+#. Name of the template
+msgid "Blog page"
+msgstr ""
+
+#: inc/init/theme.php:49
+msgid "Brand color"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:31
+msgid "Branding"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:260
+msgid "Cancel"
+msgstr ""
+
+#: parts/elements/menu_cart.php:17
+msgid "Cart review"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart totals"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:330
+msgid "Categories"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:193 parts/elements/page_headline.php:44
+msgid "Category"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:64
+#: woocommerce/single-product/meta.php:66
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/cart/cart-empty.php:40
+msgid "Check out all the available products in the shop."
+msgstr ""
+
+#: comments.php:82
+msgid "Click here to cancel reply"
+msgstr ""
+
+#: parts/portfolio/layout_type1.php:133 parts/portfolio/layout_type2.php:104
+#: parts/portfolio/layout_type3.php:133 parts/portfolio/layout_type4.php:103
+#: parts/portfolio/layout_type5.php:168 parts/portfolio/layout_type6.php:145
+#: parts/portfolio/layout_type7.php:124 parts/portfolio/layout_type8.php:147
+#: parts/portfolio/layout_type9.php:178 parts/portfolio_grid/lightbox.php:106
+msgid "Client"
+msgstr ""
+
+#. Author of the theme
+msgid "Colabrio"
+msgstr ""
+
+#: comments.php:40 comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#. %1: count comments
+#: comments.php:33 parts/elements/page_headline.php:89
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/ocdi_setup.php:439
+msgid "Contact Forms"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:338 inc/tgmpa/ocdi_setup.php:348
+#: inc/tgmpa/ocdi_setup.php:358 inc/tgmpa/ocdi_setup.php:368
+#: inc/tgmpa/ocdi_setup.php:378 inc/tgmpa/ocdi_setup.php:388
+msgid "Contact Page"
+msgstr ""
+
+#: inc/wp_overrides.php:385
+msgid "Continue Reading"
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid "Create an account?"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:173
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:115
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/init/theme.php:64
+msgid "Dark Light"
+msgstr ""
+
+#: inc/init/theme.php:59
+msgid "Dark Strong"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:29
+msgid "Dashboard"
+msgstr ""
+
+#: parts/portfolio_grid/lightbox.php:37
+msgid "data-clb-portfolio-lightbox-slider"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+msgid "Date:"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:220
+msgid "Description"
+msgstr ""
+
+#: parts/portfolio/layout_type1.php:126 parts/portfolio/layout_type2.php:97
+#: parts/portfolio/layout_type3.php:126 parts/portfolio/layout_type4.php:96
+#: parts/portfolio/layout_type5.php:161 parts/portfolio/layout_type6.php:138
+#: parts/portfolio/layout_type7.php:117 parts/portfolio/layout_type8.php:140
+#: parts/portfolio/layout_type9.php:171 parts/portfolio_grid/lightbox.php:99
+msgid "Design"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:43
+msgid "Dimensions"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:230
+msgid "Down one"
+msgstr ""
+
+#: inc/wp_overrides.php:36 woocommerce/myaccount/my-address.php:54
+msgid "Edit"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:133
+#: inc/menu/edit_mega_menu_walker.php:139
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:445
+msgid "Elements (Shortcodes)"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:102
+#: woocommerce/myaccount/form-login.php:103
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:67
+msgid "Email:"
+msgstr ""
+
+#: inc/menu/mega_menu.php:65
+msgid "Enable wide menu"
+msgstr ""
+
+#: inc/init/theme.php:99
+msgid "Extra Large"
+msgstr ""
+
+#: inc/init/theme.php:79
+msgid "Extra Small"
+msgstr ""
+
+#: inc/framework/components/object_parser.php:384
+msgid "Facebook"
+msgstr ""
+
+#: parts/blog_grid/layout_type1.php:105 parts/blog_grid/layout_type2.php:125
+#: parts/blog_grid/layout_type3.php:115 parts/blog_grid/layout_type4.php:127
+#: parts/blog_grid/layout_type5.php:104 parts/blog_grid/layout_type6.php:119
+msgid "Featured"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:384
+msgid "Filter"
+msgstr ""
+
+#: page_templates/page_for-projects.php:288
+msgid "Filter by"
+msgstr ""
+
+#: parts/elements/social_networks.php:14
+msgid "Follow Us"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:108
+msgid "Footer"
+msgstr ""
+
+#: inc/sidebars.php:25
+msgid "Footer column 1"
+msgstr ""
+
+#: inc/sidebars.php:32
+msgid "Footer column 2"
+msgstr ""
+
+#: inc/sidebars.php:39
+msgid "Footer column 3"
+msgstr ""
+
+#: inc/sidebars.php:46
+msgid "Footer column 4"
+msgstr ""
+
+#. Name of the template
+msgid "For page builder"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: inc/framework/components/helper.php:202
+msgid "Gallery slide"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:44 woocommerce/myaccount/orders.php:109
+msgid "Go Shopping"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:47
+msgid "Go shopping"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Good"
+msgstr ""
+
+#: inc/init/theme.php:69
+msgid "Grey Strong"
+msgstr ""
+
+#: inc/enqueue.php:111
+msgid "has been added to the cart"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:52
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:52
+msgid "Header & Menu"
+msgstr ""
+
+#. 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:27
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:57
+msgid "Home"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:8 inc/tgmpa/ocdi_setup.php:18
+#: inc/tgmpa/ocdi_setup.php:28 inc/tgmpa/ocdi_setup.php:38
+#: inc/tgmpa/ocdi_setup.php:48 inc/tgmpa/ocdi_setup.php:58
+#: inc/tgmpa/ocdi_setup.php:68 inc/tgmpa/ocdi_setup.php:78
+#: inc/tgmpa/ocdi_setup.php:88 inc/tgmpa/ocdi_setup.php:98
+#: inc/tgmpa/ocdi_setup.php:108 inc/tgmpa/ocdi_setup.php:118
+#: inc/tgmpa/ocdi_setup.php:128 inc/tgmpa/ocdi_setup.php:138
+#: inc/tgmpa/ocdi_setup.php:148 inc/tgmpa/ocdi_setup.php:158
+#: inc/tgmpa/ocdi_setup.php:168 inc/tgmpa/ocdi_setup.php:178
+#: inc/tgmpa/ocdi_setup.php:188 inc/tgmpa/ocdi_setup.php:198
+#: inc/tgmpa/ocdi_setup.php:208 inc/tgmpa/ocdi_setup.php:218
+#: inc/tgmpa/ocdi_setup.php:228 inc/tgmpa/ocdi_setup.php:238
+#: inc/tgmpa/ocdi_setup.php:248 inc/tgmpa/ocdi_setup.php:258
+#: inc/tgmpa/ocdi_setup.php:268 inc/tgmpa/ocdi_setup.php:429
+msgid "Home Page"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://clbthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://ohio.clbthemes.com/"
+msgstr ""
+
+#: woocommerce/single-product/title.php:31
+msgid "In stock"
+msgstr ""
+
+#: parts/elements/page_headline.php:93
+msgid "Join the Conversation"
+msgstr ""
+
+#: inc/init/theme.php:94
+msgid "Large"
+msgstr ""
+
+#. %s: post title
+#: inc/template_tags.php:70
+#, php-format
+msgid "Leave a Comment %1$s on %2$s"
+msgstr ""
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:179
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/framework/components/object_parser.php:391
+msgid "LinkedIn"
+msgstr ""
+
+#: index.php:207 search.php:269 page_templates/page_for-posts.php:275
+#: page_templates/page_for-projects.php:430 woocommerce/loop/pagination.php:85
+msgid "Load More"
+msgstr ""
+
+#: index.php:201 index.php:208 search.php:263 search.php:270
+#: page_templates/page_for-posts.php:269 page_templates/page_for-posts.php:276
+#: page_templates/page_for-projects.php:424
+#: page_templates/page_for-projects.php:431 woocommerce/loop/pagination.php:79
+#: woocommerce/loop/pagination.php:86
+msgid "Loading"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "Lost your password?"
+msgstr ""
+
+#: parts/blog_grid/layout_type1.php:115 parts/blog_grid/layout_type2.php:135
+#: parts/blog_grid/layout_type3.php:125 parts/blog_grid/layout_type4.php:137
+#: parts/blog_grid/layout_type5.php:114 parts/blog_grid/layout_type6.php:129
+#: parts/elements/page_headline.php:187
+msgid "min read"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:228
+msgid "Move"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:131
+msgid "Move down"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:118
+msgid "Move up"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "My account"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:35
+#: woocommerce/order/order-details-customer.php:55
+#: woocommerce/single-product/meta.php:48
+#: woocommerce/single-product/meta.php:52
+msgid "N/A"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:155
+msgid "Navigation Label"
+msgstr ""
+
+#: comments.php:44 comments.php:62
+msgid "Newer Comments"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:45 woocommerce/loop/pagination.php:65
+#: woocommerce/myaccount/orders.php:94 inc/framework/components/layout.php:213
+msgid "Next"
+msgstr ""
+
+#: parts/elements/nav_posts.php:26
+msgid "Next Post"
+msgstr ""
+
+#: parts/elements/nav_products.php:24
+msgid "Next Product"
+msgstr ""
+
+#: parts/elements/nav_projects.php:14
+msgid "Next Project"
+msgstr ""
+
+#: inc/menu/mega_menu.php:69
+msgid "No"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:44
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:106
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "No products in the cart."
+msgstr ""
+
+#: parts/content-none.php:8
+msgid "No result"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:453
+msgid "No results for your search query"
+msgstr ""
+
+#: parts/elements/subscribe.php:29
+msgid "No, thanks"
+msgstr ""
+
+#: inc/init/theme.php:89
+msgid "Normal"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/order/order-details.php:83
+msgid "Note:"
+msgstr ""
+
+#. Name of the theme
+msgid "Ohio"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:187
+msgid "Ohio Default Avatar"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ohio is a WordPress theme bundled with premium plugins to build a modern and "
+"functional website."
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:22
+msgid "Ohio Theme Settings"
+msgstr ""
+
+#: comments.php:43 comments.php:61
+msgid "Older Comments"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:168
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: parts/portfolio/layout_type1.php:157 parts/portfolio/layout_type2.php:128
+#: parts/portfolio/layout_type3.php:157 parts/portfolio/layout_type4.php:127
+#: parts/portfolio/layout_type5.php:137 parts/portfolio/layout_type6.php:169
+#: parts/portfolio/layout_type7.php:148 parts/portfolio/layout_type8.php:173
+#: parts/portfolio/layout_type9.php:147
+msgid "Open Project"
+msgstr ""
+
+#: woocommerce/order/order-details.php:39
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Order number:"
+msgstr ""
+
+#. %s: link to original title
+#: inc/menu/edit_mega_menu_walker.php:243
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:122
+msgid "Other Settings"
+msgstr ""
+
+#: parts/elements/page_headline.php:41
+msgid "Our recent posts"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %1$s5%2$s"
+msgstr ""
+
+#: woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:32
+msgid "Out of Stock"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:63
+msgid "Page not found"
+msgstr ""
+
+#: parts/elements/page_headline.php:123
+msgid "Page not found!"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:59
+msgid "Page Settings"
+msgstr ""
+
+#: inc/sidebars.php:15 parts/content-page.php:6 parts/content.php:11
+msgid "Pages"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-login.php:64
+#: woocommerce/myaccount/form-login.php:109
+#: woocommerce/myaccount/form-login.php:110
+msgid "Password"
+msgstr ""
+
+#: woocommerce/cart/cart.php:156
+msgid "Paste coupon code here"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:79
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Perfect"
+msgstr ""
+
+#: inc/framework/components/object_parser.php:398
+msgid "Pinterest"
+msgstr ""
+
+#: woocommerce/product_popup.php:53
+#: woocommerce/single-product/product-image.php:77
+#: woocommerce/single-product/views/type_1.php:98
+#: woocommerce/single-product/views/type_1_reverse.php:112
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: parts/elements/menu_nav.php:69
+#, php-format
+msgid "Please, %1$s assign a menu %2$s"
+msgstr ""
+
+#: parts/elements/fullscreen_menu/centered.php:28
+#: parts/elements/fullscreen_menu/compact.php:27
+#: parts/elements/fullscreen_menu/standard.php:26
+#, php-format
+msgid "Please, %1$sassign a menu%2$s"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:66 parts/elements/breadcrumbs.php:58
+msgid "Portfolio"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:406
+msgid "Portfolio Page"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio page"
+msgstr ""
+
+#: comments.php:79
+msgid "Post a comment"
+msgstr ""
+
+#. %s: nickname
+#: comments.php:81
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:83
+msgid "Post Comment"
+msgstr ""
+
+#: parts/blog_grid/layout_type1.php:92 parts/blog_grid/layout_type2.php:112
+#: parts/blog_grid/layout_type3.php:102 parts/blog_grid/layout_type4.php:114
+#: parts/blog_grid/layout_type5.php:91 parts/blog_grid/layout_type6.php:139
+msgid "Posted by"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:44 woocommerce/loop/pagination.php:64
+#: inc/framework/components/layout.php:199
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:90
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/cart/cart.php:109
+msgid "Price"
+msgstr ""
+
+#: inc/init/theme.php:20
+msgid "Primary"
+msgstr ""
+
+#: woocommerce/cart/cart.php:71 woocommerce/order/order-details.php:44
+msgid "Product"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:414
+msgid "Products"
+msgstr ""
+
+#: parts/elements/page_headline.php:83
+msgid "Published"
+msgstr ""
+
+#: woocommerce/cart/cart.php:114
+#: woocommerce/single-product/add-to-cart/simple.php:29
+#: woocommerce/single-product/add-to-cart/variable.php:38
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate this product:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Rate&hellip;"
+msgstr ""
+
+#. %s: rating
+#: woocommerce/single-product/review-rating.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: parts/blog_grid/layout_type1.php:152 parts/blog_grid/layout_type2.php:171
+#: parts/blog_grid/layout_type3.php:160 parts/blog_grid/layout_type4.php:175
+#: parts/blog_grid/layout_type5.php:149 parts/blog_grid/layout_type6.php:188
+msgid "Read More"
+msgstr ""
+
+#: parts/elements/related_posts.php:46
+msgid "Recent Posts"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Registration"
+msgstr ""
+
+#: inc/wp_overrides.php:207
+msgid "Registration complete. Check your email."
+msgstr ""
+
+#: woocommerce/single-product/related.php:76
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "Remember me"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:259
+msgid "Remove"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:211
+msgid "Remove Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:61 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: inc/wp_overrides.php:41
+msgid "Reply"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:56
+msgid "Reset"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid "SALE"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:27
+msgid "Sale"
+msgstr ""
+
+#: page_templates/page_for-projects.php:468
+msgid "Scroll"
+msgstr ""
+
+#: parts/elements/scroll_top.php:15
+msgid "Scroll to top"
+msgstr ""
+
+#: searchform.php:3 woocommerce/product-searchform.php:35
+msgid "Search for"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:59
+msgid "Search results"
+msgstr ""
+
+#: parts/elements/page_headline.php:49
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:359
+msgid "Search suggestions"
+msgstr ""
+
+#: searchform.php:4 woocommerce/product-searchform.php:36
+msgid "Search..."
+msgstr ""
+
+#: woocommerce/product-searchform.php:43
+msgid "Select Category"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:53
+msgid "Shipping address"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:87 inc/tgmpa/woocommerce_setup.php:93
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:75
+#: woocommerce/content-product_cat.php:95
+msgid "Shop now"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:447
+msgid "Show All"
+msgstr ""
+
+#: parts/portfolio_grid/portfolio_layout_type_10.php:69
+#: parts/portfolio_grid/portfolio_layout_type_3.php:70
+#: parts/portfolio_grid/portfolio_layout_type_4.php:71
+#: parts/portfolio_grid/portfolio_layout_type_5.php:72
+#: parts/portfolio_grid/portfolio_layout_type_6.php:70
+#: parts/portfolio_grid/portfolio_layout_type_7.php:67
+#: parts/portfolio_grid/portfolio_layout_type_9.php:40
+msgid "Show Project"
+msgstr ""
+
+#: parts/portfolio_grid/portfolio_layout_type_1.php:96
+#: parts/portfolio_grid/portfolio_layout_type_2.php:91
+msgid "Show project"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:324
+#, php-format
+msgid "Showing %1$d-%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:76
+#: woocommerce/myaccount/form-login.php:77
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+msgid "Sign in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/myaccount/form-login.php:122
+#: woocommerce/myaccount/form-login.php:123
+msgid "Sign Up"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:80
+msgid "Single Post"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:94
+msgid "Single Product"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:48
+#: woocommerce/single-product/meta.php:52
+msgid "SKU:"
+msgstr ""
+
+#: inc/init/theme.php:84
+msgid "Small"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: parts/portfolio/layout_type1.php:119 parts/portfolio/layout_type2.php:90
+#: parts/portfolio/layout_type3.php:119 parts/portfolio/layout_type4.php:89
+#: parts/portfolio/layout_type5.php:154 parts/portfolio/layout_type6.php:131
+#: parts/portfolio/layout_type7.php:110 parts/portfolio/layout_type8.php:133
+#: parts/portfolio/layout_type9.php:164 parts/portfolio_grid/lightbox.php:92
+msgid "Strategy"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:103
+msgid "sub item"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Submit Review"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:101
+msgid "Subscribe"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:100
+msgid "Subscribe Settings"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart.php:136 woocommerce/cart/mini-cart.php:85
+msgid "Subtotal"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:129
+msgid "Support"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:201 parts/elements/page_headline.php:47
+msgid "Tag"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:60 parts/elements/breadcrumbs.php:61
+#: woocommerce/single-product/meta.php:76
+msgid "Tag:"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template_tags.php:49
+msgid "Tagged with"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:348 parts/portfolio/layout_type1.php:149
+#: parts/portfolio/layout_type2.php:120 parts/portfolio/layout_type3.php:149
+#: parts/portfolio/layout_type4.php:119 parts/portfolio/layout_type5.php:184
+#: parts/portfolio/layout_type6.php:161 parts/portfolio/layout_type7.php:140
+#: parts/portfolio/layout_type8.php:163 parts/portfolio/layout_type9.php:194
+#: parts/portfolio_grid/lightbox.php:122
+msgid "Tags"
+msgstr ""
+
+#: parts/portfolio/layout_type1.php:110 parts/portfolio/layout_type2.php:81
+#: parts/portfolio/layout_type3.php:110 parts/portfolio/layout_type4.php:80
+#: parts/portfolio/layout_type5.php:146 parts/portfolio/layout_type7.php:103
+#: parts/portfolio/layout_type9.php:156
+msgid "Task"
+msgstr ""
+
+#: 404.php:11
+msgid "Tell us what you are looking for"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49 woocommerce/checkout/thankyou.php:108
+msgid "Thank you."
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:222
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:40
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:72 inc/tgmpa/acf_setup.php:114
+msgid "Theme Blog Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:107
+msgid "Theme Footer Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:51
+msgid "Theme Header Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:30 inc/tgmpa/acf_setup.php:37
+#: inc/tgmpa/acf_setup.php:44 inc/tgmpa/acf_setup.php:58
+msgid "Theme Pages Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:121
+msgid "Theme Plugins Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:65
+msgid "Theme Portfolio Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:79
+msgid "Theme Post Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:23
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:38
+msgid "Theme Styling"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:93
+msgid "Theme WooCommerce Product Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:86
+msgid "Theme WooCommerce Settings"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:50
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:55
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:161
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:233
+msgid "To the top"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+#: woocommerce/order/order-details.php:45
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:73
+msgid "Total:"
+msgstr ""
+
+#: inc/framework/components/object_parser.php:377
+msgid "Twitter"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:45
+msgid "Typography"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:262 parts/elements/page_headline.php:108
+msgid "Undefined"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:229
+msgid "Up one"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:45
+msgid "Updating..."
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:210
+msgid "Upload Image"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:148
+msgid "URL"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+#: woocommerce/myaccount/form-login.php:96
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:59
+#: woocommerce/myaccount/form-login.php:60
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:42
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Very Poor"
+msgstr ""
+
+#: inc/enqueue.php:110
+msgid "View Cart"
+msgstr ""
+
+#: inc/framework/components/object_parser.php:405
+msgid "Vkontakte"
+msgstr ""
+
+#: parts/content-none.php:11
+msgid ""
+"We did not find any article that matches this search. Try using other search "
+"criteria"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:36
+msgid "Weight"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:95
+msgid "WooCommerce sidebar."
+msgstr ""
+
+#: woocommerce/single-product/rating.php:52
+msgid "Write a review"
+msgstr ""
+
+#: inc/menu/mega_menu.php:68
+msgid "Yes"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:61
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:69
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:67
+msgid "You may be interested in"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:37
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: inc/wp_overrides.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:87
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:86
+msgid "Your Name"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49 woocommerce/checkout/thankyou.php:108
+msgid "Your order has been received."
+msgstr ""
+
+#: comments.php:88
+msgid "Your Website"
+msgstr ""

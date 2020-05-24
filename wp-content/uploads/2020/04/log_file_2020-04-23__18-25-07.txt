@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Contact Forms were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://test-mauro.site
+Data file = /home/forge/test-mauro.site/public/wp-content/uploads/2020/04/demo-content-import-file_2020-04-23__18-25-07.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,143 @@
+/*!
+Theme Name: Ohio-Child
+Theme URI: http://ohio.colabr.io/
+Author: Colabrio
+Author URI: http://colabr.io/
+Description: Ohio is a WordPress theme bundled with premium plugins to build a modern and functional website.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: ohio
+Text Domain: ohio-child
+Tags: ajax, customizer, ecommerce, portfolio, minimal, page builder, responsive, multipurpose, shop, store, woocommerce, wpml
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+body .site-content, .woo_c-product.single-product .woo_c-product-details {
+    background-image: url(/wp-content/uploads/2020/04/Bitmap-min.png) !important;
+    background-size: auto;
+    background-position: center center;
+    background-repeat: repeat;
+}
+.title-lead {
+	background-color: #00000082;
+    height: 4.3rem !important;
+    padding-top: 0.9rem;
+	color:#ffffff !important
+}
+
+.ohio-countdown-box-sc {
+	background-color: #00CEFF ;
+    margin: 0rem 12rem;
+    height: 10rem;
+    border-radius: 20px;
+	-webkit-box-shadow: 10px 10px 109px -23px rgba(0,206,255,1);
+-moz-box-shadow: 10px 10px 109px -23px rgba(0,206,255,1);
+box-shadow: 10px 10px 109px -23px rgba(0,206,255,1);
+}
+.box-label {
+    background-color: #D9238C;
+    height: 2.5rem;
+    padding-top: 0.5rem;
+    border-radius: 4px;
+}
+.for-onepage{
+	width: 11rem !important;
+}
+.cart-total {
+	color: #ffffff !important;
+}
+.cart {
+	color: #ffffff !important;
+}
+.clb-hamburger-holder {
+	color: #ffffff !important;
+}
+
+/* videos */
+.vpg-playlist-template-6 .vpg_frame-playlist {
+    background: transparent !important;
+	color: white;
+}
+
+.playlist-slider-nav .slick-arrow {
+    background: transparent !important;
+	display: none !important;
+}
+.playlist-slider-nav .slick-prev {
+    display: none !important;
+}
+
+.lanzamiento {
+	font-size: 25px !important;
+	font-weight: 500 !important;
+}
+
+#discografia-plugin {
+	padding: 0 10rem !important;
+}
+
+/* media query for movile */
+@media only screen and (max-width: 600px) {
+	.vc_row .wpb_column > .vc_column-inner {
+    	padding-left: 20px !important;
+    	padding-right: 20px !important;
+	}
+	
+	.dynamic {
+    	font-size: 25px !important;
+    	font-weight: 500 !important;
+	}
+	
+	.ohio-countdown-box-sc {
+    	margin: 0rem !important;
+    	height: 10rem;
+	}
+	
+	.title-lead {
+		background-color: #00000082;
+    	height: 4.3rem !important;
+    	padding-top: 0.9rem;
+		color:#ffffff !important
+	}
+	
+	.countdown-box .box-time .box-count {
+    	min-width: 50px !important;
+	}
+	
+	.countdown-box .box-time {
+    	padding: 0 8px !important;
+	}
+	
+	.title-lead {
+    	height: 3rem !important;
+    	padding-top: 0.4em;
+    	font-size: 18px;
+	}
+	
+	.box-label {
+    	background-color: #D9238C;
+    	height: 2rem;
+    	padding-top: 0.5em;
+    	border-radius: 4px;
+	}
+	
+	h3 {
+    	font-size: 28px;
+	}
+	
+	#discografia-plugin {
+		padding: 0rem !important;
+	}
+}
+
+
+/*  descomentar eso es el carrito de compras en el menu*/
+.menu-optional .cart-holder {
+    display: none !important;
+}

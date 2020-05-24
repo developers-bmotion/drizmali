@@ -1,0 +1,269 @@
+Searching 431 files for "If you want to add styles to a specific unit, use this field to add CSS class." (case sensitive)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/accordion/accordion__params.php:
+  122  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  123  				'param_name' => 'css_class',
+  124: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  125  			),
+  126  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/accordion_inner/accordion_inner__params.php:
+  143  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  144  				'param_name' => 'css_class',
+  145: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra'),
+  146  			),
+  147  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/banner/banner__params.php:
+  241  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  242  				'param_name' => 'css_class',
+  243: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  244  			),
+  245  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/button/button__params.php:
+  217  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  218  				'param_name' => 'css_class',
+  219: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  220  			),
+  221  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/call_to_action/call_to_action__params.php:
+  183  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  184  				'param_name' => 'css_class',
+  185: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  186  			),
+  187  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/carousel/carousel__params.php:
+  253  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  254  				'param_name' => 'css_class',
+  255: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  256  			),
+  257  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/carousel_inner/carousel_inner__params.php:
+   56  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   57  				'param_name' => 'css_class',
+   58: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' ),
+   59  			),
+   60  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/clients_logo/clients_logo__params.php:
+  183  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  184  				'param_name' => 'css_class',
+  185: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  186  			),
+  187  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/contact_form/contact_form__params.php:
+  147  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  148  				'param_name' => 'css_class',
+  149: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  150  			),
+  151  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/countdown/countdown__params.php:
+  144  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  145  				'param_name' => 'css_class',
+  146: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  147  			),
+  148  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/counter/counter__params.php:
+  191  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  192  				'param_name' => 'css_class',
+  193: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  194  			),
+  195  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/dynamic_text/dynamic_text__params.php:
+  146  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  147  				'param_name' => 'css_class',
+  148: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  149  			),
+  150  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/gallery/gallery__params.php:
+  227  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  228  				'param_name' => 'css_class',
+  229: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  230  			),
+  231  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/heading/heading__params.php:
+  229  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  230  				'param_name' => 'css_class',
+  231: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  232  			),
+  233  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/icon_box/icon_box__params.php:
+  331  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  332  				'param_name' => 'css_class',
+  333: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  334  			),
+  335  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/instagram_feed/instagram_feed__params.php:
+   73  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   74  				'param_name' => 'css_class',
+   75: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+   76  			),
+   77  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/message_module/message_module__params.php:
+  153  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  154  				'param_name' => 'css_class',
+  155: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  156  			),
+  157  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/parallax/parallax__params.php:
+   84  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   85  				'param_name' => 'css_class',
+   86: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+   87  			),
+   88  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/pricing_list/pricing_list__params.php:
+  180  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  181  				'param_name' => 'css_class',
+  182: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  183  			),
+  184  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/pricing_table/pricing_table__params.php:
+  334  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  335  				'param_name' => 'css_class',
+  336: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  337  			),
+  338  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/process/process__params.php:
+  133  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  134  				'param_name' => 'css_class',
+  135: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  136  			),
+  137  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/progress_bar/progress_bar__params.php:
+  142  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  143  				'param_name' => 'css_class',
+  144: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  145  			),
+  146  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/recent_posts/recent_posts__params.php:
+  331  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  332  				'param_name' => 'css_class',
+  333: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  334  			),
+  335  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/recent_projects/recent_projects__params.php:
+  663  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  664  				'param_name' => 'css_class',
+  665: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  666  			),
+  667  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/social_networks/social_networks__params.php:
+  494  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  495  				'param_name' => 'css_class',
+  496: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  497  			),
+  498  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/split_box/split_box__params.php:
+  191  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  192  				'param_name' => 'css_class',
+  193: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  194  			),
+  195  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/split_box_inner/split_box_inner__params.php:
+   29  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   30  				'param_name' => 'css_class',
+   31: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' ),
+   32  			),
+   33  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/tabs/tabs__params.php:
+  194  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  195  				'param_name' => 'css_class',
+  196: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  197  			),
+  198  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/tabs_inner/tabs_inner__params.php:
+   56  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   57  				'param_name' => 'css_class',
+   58: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' ),
+   59  			),
+   60  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/team_member/team_member__params.php:
+  214  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  215  				'param_name' => 'css_class',
+  216: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  217  			),
+  218  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/team_member_inner/team_member_inner__params.php:
+  200  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  201  				'param_name' => 'css_class',
+  202: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  203  			),
+  204  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/team_members_group/team_members_group__params.php:
+   35  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   36  				'param_name' => 'css_class',
+   37: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+   38  			),
+   39  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/testimonial/testimonial__params.php:
+  275  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  276  				'param_name' => 'css_class',
+  277: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  278  			),
+  279  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/text/text__params.php:
+   65  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   66  				'param_name' => 'css_class',
+   67: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+   68  			),
+   69  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/vertical_slider/vertical_slider__params.php:
+   80  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   81  				'param_name' => 'css_class',
+   82: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+   83  			),
+   84  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/vertical_slider_inner/vertical_slider_inner__params.php:
+   84  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+   85  				'param_name' => 'css_class',
+   86: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+   87  			),
+   88  		)
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/video/video__params.php:
+  205  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  206  				'param_name' => 'css_class',
+  207: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  208  			),
+  209  
+
+/Applications/MAMP/htdocs/ohio/wp-content/plugins/ohio-extra/shortcodes/woo_categories/woo_categories__params.php:
+  213  				'heading' => __( 'Custom CSS class', 'ohio-extra' ),
+  214  				'param_name' => 'css_class',
+  215: 				'description' => __( 'If you want to add styles to a specific unit, use this field to add CSS class.', 'ohio-extra' )
+  216  			),
+  217  
+
+38 matches across 38 files

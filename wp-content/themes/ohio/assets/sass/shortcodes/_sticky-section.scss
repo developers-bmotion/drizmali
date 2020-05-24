@@ -1,0 +1,28 @@
+.sticky-section {
+    &-item {
+        height: 100%;
+        position: relative;
+
+        &-image {
+            position: sticky;
+            top: 0px;
+            height: 100%;
+        }
+
+        &-content {
+            height: 100vh;
+            position: relative;
+        }
+    }
+
+    &.full-vh {
+        height: auto;
+        min-height: 100vh;
+
+        .sticky-section-item {
+            .sticky-section-item-image {
+                height: 100vh;
+            }
+        }
+    }
+}

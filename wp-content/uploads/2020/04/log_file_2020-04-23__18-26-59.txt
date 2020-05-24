@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Demo 8: <b>Creative Agency</b> were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://test-mauro.site
+Data file = /home/forge/test-mauro.site/public/wp-content/uploads/2020/04/demo-content-import-file_2020-04-23__18-26-59.xml
+Widget file = /home/forge/test-mauro.site/public/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-23__18-26-59.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Imported
+Categorías - No Title - Imported
+Meta - No Title - Imported
+Categorías - No Title - Imported
+Entradas recientes - No Title - Imported
+HTML personalizado - Need something customized? - Imported
+
+Footer column 1 : 
+
+Ohio: Logo - No Title - Imported
+HTML personalizado - No Title - Imported
+
+Footer column 2 : 
+
+HTML personalizado - Barcelona - Imported
+HTML personalizado - Rotterdam - Imported
+
+Footer column 3 : 
+
+HTML personalizado - Work inquiries - Imported
+HTML personalizado - Phone - Imported
+
+Footer column 4 : 
+
+Ohio: Subscribe - Stay in touch - Imported
+
+Shop : 
+
+Categorías - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
